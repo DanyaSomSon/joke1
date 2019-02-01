@@ -1,0 +1,69 @@
+.dv{
+	width: 1000px;
+	box-sizing: border-box;
+	margin: 0 auto;
+	transition: 0.5s;
+	background: darkblue
+}
+.body{
+	transition: 0.5s;
+	background: orange
+}
+
+
+.ac{
+	color: black;
+	text-decoration: none;
+}
+
+
+.a{
+	color: black;
+	text-decoration: none;
+	list-style: none;
+}
+.a1{
+	color: black;
+	text-decoration: none;
+	list-style: none;
+	
+}
+
+.ht{
+	width: 1000px;
+	margin: 0 auto;
+	background: black;
+	text-align: center;
+	box-sizing: border-box;
+	transition: 1s;
+	border: 10px solid orange
+}
+
+.ht:hover{
+	background: snow
+}
+
+body:hover{
+	background: violet
+}
+
+.dv:hover{
+	background: crimson
+}
+.d:hover{
+	background: gold
+}
+
+.d{
+	width: 1000px;
+	border: 10px double violet;
+	margin: 0 auto;
+	background: rgba(255, 0, 0, 0.425);
+	transition: 0.5s;
+	box-sizing: border-box;
+}
+
+
+
+
+
